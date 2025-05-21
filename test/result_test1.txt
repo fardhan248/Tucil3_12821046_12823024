@@ -1,0 +1,50 @@
+Papan Awal
+AAB..F
+..BCDF
+GPPCDFK
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 1: C-atas
+AABC.F
+..BCDF
+GPP.DFK
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 2: D-atas
+AABCDF
+..BCDF
+GPP..FK
+GH.III
+GHJ...
+LLJMM.
+
+Gerakan 3: I-kiri
+AABCDF
+..BCDF
+GPP..FK
+GHIII.
+GHJ...
+LLJMM.
+
+Gerakan 4: F-bawah
+AABCD.
+..BCD.
+GPP...K
+GHIIIF
+GHJ..F
+LLJMMF
+
+Gerakan 5: P-kanan
+AABCD.
+..BCD.
+G.....K
+GHIIIF
+GHJ..F
+LLJMMF
+
+Jumlah node: 117
+Waktu eksekusi: 14 ms

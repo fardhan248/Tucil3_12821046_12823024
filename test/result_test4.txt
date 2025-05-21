@@ -1,0 +1,62 @@
+Papan Awal
+K      
+AAA...M
+DDDJ.IM
+P.EJ.IM
+P.EBB..
+PCC....
+N.LL...
+N......
+
+Gerakan 1: A-kanan
+K      
+...AAAM
+DDDJ.IM
+P.EJ.IM
+P.EBB..
+PCC....
+N.LL...
+N......
+
+Gerakan 2: B-kanan
+K      
+...AAAM
+DDDJ.IM
+P.EJ.IM
+P.E..BB
+PCC....
+N.LL...
+N......
+
+Gerakan 3: J-bawah
+K      
+...AAAM
+DDD..IM
+P.E..IM
+P.EJ.BB
+PCCJ...
+N.LL...
+N......
+
+Gerakan 4: D-kanan
+K      
+...AAAM
+..DDDIM
+P.E..IM
+P.EJ.BB
+PCCJ...
+N.LL...
+N......
+
+Gerakan 5: P-atas
+K      
+...AAAM
+..DDDIM
+..E..IM
+..EJ.BB
+.CCJ...
+N.LL...
+N......
+
+Jumlah node: 294
+Waktu eksekusi: 27 ms

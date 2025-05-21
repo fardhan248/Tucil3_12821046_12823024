@@ -1,0 +1,74 @@
+Papan Awal
+ ...A..
+ ...A..
+K...BPP
+ C..B..
+ C..B..
+ C..DDD
+
+Gerakan 1: C-atas
+ C..A..
+ C..A..
+KC..BPP
+ ...B..
+ ...B..
+ ...DDD
+
+Gerakan 2: D-kiri
+ C..A..
+ C..A..
+KC..BPP
+ ...B..
+ ...B..
+ DDD...
+
+Gerakan 3: B-bawah
+ C..A..
+ C..A..
+KC...PP
+ ...B..
+ ...B..
+ DDDB..
+
+Gerakan 4: P-kiri
+ C..A..
+ C..A..
+KCPP...
+ ...B..
+ ...B..
+ DDDB..
+
+Gerakan 5: B-atas
+ C..A..
+ C..A..
+KCPPB..
+ ...B..
+ ...B..
+ DDD...
+
+Gerakan 6: D-kanan
+ C..A..
+ C..A..
+KCPPB..
+ ...B..
+ ...B..
+ ...DDD
+
+Gerakan 7: C-bawah
+ ...A..
+ ...A..
+K.PPB..
+ C..B..
+ C..B..
+ C..DDD
+
+Gerakan 8: P-kiri
+ ...A..
+ ...A..
+K...B..
+ C..B..
+ C..B..
+ C..DDD
+
+Jumlah node: 21
+Waktu eksekusi: 1 ms

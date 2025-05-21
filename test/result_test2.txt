@@ -1,0 +1,426 @@
+Papan Awal
+ABB.C.
+ADE.CF
+ADEPPFK
+GGGH.F
+..IHJJ
+LLIMM.
+
+Gerakan 1: F-atas
+ABB.CF
+ADE.CF
+ADEPPFK
+GGGH..
+..IHJJ
+LLIMM.
+
+Gerakan 2: M-kanan
+ABB.CF
+ADE.CF
+ADEPPFK
+GGGH..
+..IHJJ
+LLI.MM
+
+Gerakan 3: H-bawah
+ABB.CF
+ADE.CF
+ADEPPFK
+GGG...
+..IHJJ
+LLIHMM
+
+Gerakan 4: G-kanan
+ABB.CF
+ADE.CF
+ADEPPFK
+...GGG
+..IHJJ
+LLIHMM
+
+Gerakan 5: I-atas
+ABB.CF
+ADE.CF
+ADEPPFK
+..IGGG
+..IHJJ
+LL.HMM
+
+Gerakan 6: L-kanan
+ABB.CF
+ADE.CF
+ADEPPFK
+..IGGG
+..IHJJ
+.LLHMM
+
+Gerakan 7: A-bawah
+.BB.CF
+.DE.CF
+.DEPPFK
+A.IGGG
+A.IHJJ
+ALLHMM
+
+Gerakan 8: B-kiri
+BB..CF
+.DE.CF
+.DEPPFK
+A.IGGG
+A.IHJJ
+ALLHMM
+
+Gerakan 9: E-atas
+BBE.CF
+.DE.CF
+.D.PPFK
+A.IGGG
+A.IHJJ
+ALLHMM
+
+Gerakan 10: D-bawah
+BBE.CF
+..E.CF
+...PPFK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 11: P-kiri
+BBE.CF
+..E.CF
+PP...FK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 12: E-bawah
+BB..CF
+..E.CF
+PPE..FK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 13: C-bawah
+BB...F
+..E.CF
+PPE.CFK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 14: B-kanan
+...BBF
+..E.CF
+PPE.CFK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 15: E-atas
+..EBBF
+..E.CF
+PP..CFK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 16: P-kanan
+..EBBF
+..E.CF
+..PPCFK
+ADIGGG
+ADIHJJ
+ALLHMM
+
+Gerakan 17: A-atas
+A.EBBF
+A.E.CF
+A.PPCFK
+.DIGGG
+.DIHJJ
+.LLHMM
+
+Gerakan 18: L-kiri
+A.EBBF
+A.E.CF
+A.PPCFK
+.DIGGG
+.DIHJJ
+LL.HMM
+
+Gerakan 19: D-atas
+ADEBBF
+ADE.CF
+A.PPCFK
+..IGGG
+..IHJJ
+LL.HMM
+
+Gerakan 20: I-bawah
+ADEBBF
+ADE.CF
+A.PPCFK
+...GGG
+..IHJJ
+LLIHMM
+
+Gerakan 21: P-kiri
+ADEBBF
+ADE.CF
+APP.CFK
+...GGG
+..IHJJ
+LLIHMM
+
+Gerakan 22: G-kiri
+ADEBBF
+ADE.CF
+APP.CFK
+GGG...
+..IHJJ
+LLIHMM
+
+Gerakan 23: F-bawah
+ADEBB.
+ADE.CF
+APP.CFK
+GGG..F
+..IHJJ
+LLIHMM
+
+Gerakan 24: B-kanan
+ADE.BB
+ADE.CF
+APP.CFK
+GGG..F
+..IHJJ
+LLIHMM
+
+Gerakan 25: H-atas
+ADEHBB
+ADEHCF
+APP.CFK
+GGG..F
+..I.JJ
+LLI.MM
+
+Gerakan 26: J-kiri
+ADEHBB
+ADEHCF
+APP.CFK
+GGG..F
+..IJJ.
+LLI.MM
+
+Gerakan 27: M-kiri
+ADEHBB
+ADEHCF
+APP.CFK
+GGG..F
+..IJJ.
+LLIMM.
+
+Gerakan 28: F-bawah
+ADEHBB
+ADEHC.
+APP.C.K
+GGG..F
+..IJJF
+LLIMMF
+
+Gerakan 29: P-kanan
+ADEHBB
+ADEHC.
+A.PPC.K
+GGG..F
+..IJJF
+LLIMMF
+
+Gerakan 30: G-kanan
+ADEHBB
+ADEHC.
+A.PPC.K
+..GGGF
+..IJJF
+LLIMMF
+
+Gerakan 31: D-bawah
+A.EHBB
+A.EHC.
+A.PPC.K
+.DGGGF
+.DIJJF
+LLIMMF
+
+Gerakan 32: P-kiri
+A.EHBB
+A.EHC.
+APP.C.K
+.DGGGF
+.DIJJF
+LLIMMF
+
+Gerakan 33: H-bawah
+A.E.BB
+A.EHC.
+APPHC.K
+.DGGGF
+.DIJJF
+LLIMMF
+
+Gerakan 34: B-kiri
+A.EBB.
+A.EHC.
+APPHC.K
+.DGGGF
+.DIJJF
+LLIMMF
+
+Gerakan 35: F-atas
+A.EBBF
+A.EHCF
+APPHCFK
+.DGGG.
+.DIJJ.
+LLIMM.
+
+Gerakan 36: G-kanan
+A.EBBF
+A.EHCF
+APPHCFK
+.D.GGG
+.DIJJ.
+LLIMM.
+
+Gerakan 37: I-atas
+A.EBBF
+A.EHCF
+APPHCFK
+.DIGGG
+.DIJJ.
+LL.MM.
+
+Gerakan 38: L-kanan
+A.EBBF
+A.EHCF
+APPHCFK
+.DIGGG
+.DIJJ.
+.LLMM.
+
+Gerakan 39: A-bawah
+..EBBF
+..EHCF
+.PPHCFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 40: P-kiri
+..EBBF
+..EHCF
+PP.HCFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 41: E-bawah
+...BBF
+..EHCF
+PPEHCFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 42: B-kiri
+BB...F
+..EHCF
+PPEHCFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 43: E-atas
+BBE..F
+..EHCF
+PP.HCFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 44: C-atas
+BBE.CF
+..EHCF
+PP.H.FK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 45: H-atas
+BBEHCF
+..EHCF
+PP...FK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 46: P-kanan
+BBEHCF
+..EHCF
+...PPFK
+ADIGGG
+ADIJJ.
+ALLMM.
+
+Gerakan 47: A-atas
+BBEHCF
+A.EHCF
+A..PPFK
+ADIGGG
+.DIJJ.
+.LLMM.
+
+Gerakan 48: L-kiri
+BBEHCF
+A.EHCF
+A..PPFK
+ADIGGG
+.DIJJ.
+LL.MM.
+
+Gerakan 49: I-bawah
+BBEHCF
+A.EHCF
+A..PPFK
+AD.GGG
+.DIJJ.
+LLIMM.
+
+Gerakan 50: G-kiri
+BBEHCF
+A.EHCF
+A..PPFK
+ADGGG.
+.DIJJ.
+LLIMM.
+
+Gerakan 51: F-bawah
+BBEHC.
+A.EHC.
+A..PP.K
+ADGGGF
+.DIJJF
+LLIMMF
+
+Gerakan 52: P-kanan
+BBEHC.
+A.EHC.
+A.....K
+ADGGGF
+.DIJJF
+LLIMMF
+
+Jumlah node: 2134
+Waktu eksekusi: 144 ms
