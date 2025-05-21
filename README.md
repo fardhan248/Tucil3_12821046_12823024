@@ -23,16 +23,16 @@ cd path\to\RushHourSolver
 g++ main.cpp -o main
 ```
 
-3. Akan muncul file dengan nama `bash main`.
+3. Akan muncul file dengan nama `main`.
 
 ## Cara menjalankan program
-1. Di direktori yang memiliki file `bash main`, jalankan perintah berikut
+Di direktori yang memiliki file `main`, jalankan perintah berikut
 ```bash
-./main <nama_file .txt> <algoritma>
+./main <nama_file.txt> <algoritma>
 ```
 
 Keterangan:
-- nama file .txt: berisi konfigurasi papan permainan Rush Hour dengan format
+- nama file.txt: berisi konfigurasi papan permainan Rush Hour dengan format
 ```txt 
 A B
 N
@@ -42,7 +42,7 @@ konfigurasi_papan
 dengan:
 - A dan B: ukuran papan (baris, lebar)
 - N: banyak kendaraan (selain kendaraan utama)
-- konfigurasi papan dengan contoh lengkap
+- konfigurasi papan dengan contoh lengkap:
 ```txt 
 6 6
 11
@@ -54,7 +54,7 @@ GHJ...
 LLJMM.
 ```
 
-*Berikut merupakan algoritma yang dapat dipilih <br>
+Berikut merupakan algoritma yang dapat dipilih <br>
 - ucs: Uniform Cost Search (UCS)
 - gbfs: Greedy Best First Searh (GBFS)
 - astar: A*
